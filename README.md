@@ -6,4 +6,11 @@
 
 https://www.datafountain.cn/competitions/584
 
-开源的代码包含我们在A榜期间的训练和预测的代码，我们在A榜期间使用了5个GP的五折模型和4个GRTE模型，以及投票和后处理的操作。B榜代码较A榜代码的变化之处在于使用到了CCL数据和A榜的测试集伪标再加入到训练集中去训练，代码逻辑改的不大，因此就不放置了。我们的具体一些方案和细节，可以阅读我们开源的文档和PPT。
+![image](https://user-images.githubusercontent.com/36300853/223060327-70e41166-f454-49d9-8092-b997b6a99a4a.png)
+
+![image](https://user-images.githubusercontent.com/36300853/223060372-763b0c75-ad63-42d2-acca-1b11ceff910c.png)
+
+![image](https://user-images.githubusercontent.com/36300853/223060422-d4f5e491-5482-425e-861d-d3773ec6521b.png)
+
+![image](https://user-images.githubusercontent.com/36300853/223060452-11b9f591-f851-46dd-bc27-97080ac8a957.png)
+
